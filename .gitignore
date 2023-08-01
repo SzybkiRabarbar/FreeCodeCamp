@@ -4,6 +4,10 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 test.py
+exercise_numpy.ipynb
+exercise_pandas.ipynb
+exercise_pandas_series.ipynb
+exercise_pandas_df.ipynb
 
 # User-specific files
 *.rsuser
